@@ -1,2 +1,1 @@
-this file contains db connection releated stuff...
-first commit
+updated dbutilts[D[D[D[D[D[D[D[B[C[C[C[C[C[C[C[C in java
